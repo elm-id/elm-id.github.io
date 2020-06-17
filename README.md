@@ -3,4 +3,4 @@ Community page for Elm Indonesia
 
 # Slack Channel
 
-We're in Official [Elm Slack](http://elmlang.slack.com/), you can join us in #indonesia channel 🇮🇩
+We're in Official [Elm Slack](https://elmlang.herokuapp.com/), you can join us in #indonesia channel 🇮🇩
