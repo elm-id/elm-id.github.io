@@ -13,4 +13,4 @@ We're also have a growing community in Telegram where you can join at [t.me/elmi
 
 # Companies using Elm in Indonesia
 
-<image src="./logos/kulkul.png" alt="Kulkul Technology"/>
+<image width="300px" src="./logos/kulkul.png" alt="Kulkul Technology"/>
