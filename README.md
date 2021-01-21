@@ -10,3 +10,7 @@ We're in Official [Elm Slack](https://elmlang.herokuapp.com/), you can join us i
 # Telegram Group
 
 We're also have a growing community in Telegram where you can join at [t.me/elmindonesia](https://t.me/elmindonesia).
+
+# Companies using Elm in Indonesia
+
+<image src="./logos/kulkul.png" alt="Kulkul Technology"/>
